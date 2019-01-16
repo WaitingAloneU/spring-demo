@@ -1,0 +1,6 @@
+server:
+  port: 9008
+spring:
+  redis:
+    host: 39.98.94.219
+    port: 6379
